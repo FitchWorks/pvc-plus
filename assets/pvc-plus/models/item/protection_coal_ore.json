@@ -1,7 +1,6 @@
 {
-  "parent": "minecraft:block/cube_column",
+  "parent": "pvc-plus:item/protection_base",
   "textures": {
-    "end": "pvc-plus:item/protection_coal_ore",
-    "side": "minecraft:block/coal_ore"
+    "all": "pvc-plus:item/protection_coal_ore"
   }
 }

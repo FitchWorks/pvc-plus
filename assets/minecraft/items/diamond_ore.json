@@ -1,0 +1,39 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": {
+          "text": "",
+          "extra": [
+            {
+              "text": "Mega ",
+              "strikethrough": false,
+              "obfuscated": false,
+              "bold": true,
+              "italic": false,
+              "underlined": false,
+              "color": "aqua"
+            },
+            {
+              "text": "Protection Block",
+              "bold": false,
+              "italic": false,
+              "color": "white"
+            }
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "pvc-plus:item/protection_diamond_ore"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/diamond_ore"
+    }
+  }
+}
