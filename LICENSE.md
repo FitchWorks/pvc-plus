@@ -2,7 +2,7 @@
 
 This resource pack is licensed under the **Creative Commons Attribution 4.0 International License** (CC BY 4.0), except where otherwise noted below.
 
-Copyright (c) 2026 fitch
+Copyright (c) 2026 FitchWorks
 
 ---
 
